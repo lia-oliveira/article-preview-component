@@ -14,35 +14,46 @@
       href="./images/favicon-32x32.png"
     />
     <title>Frontend Mentor | Article preview component</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./assets/css/main.css" />
   </head>
   <body>
     <main>
       <article>
-        <h1>
-          Shift the overall look and feel by adding these wonderful touches to
-          furniture in your home
-        </h1>
-        <p>
-          Ever been in a room and felt like something was missing? Perhaps it felt
-          slightly bare and uninviting. I've got some simple tips to help you make
-          any room feel complete.
-        </p>
-        <nav class="share">
-          <p>Share</p>
-          <ul>
-            <li><a href="#"><img src="./assets/images/icon-facebook.svg" alt="Facebook icon"></a></li>
-            <li><a href="#"><img src="./assets/images/icon-twitter.svg" alt="Twitter"></a></li>
-            <li><a href="#"><img src="./assets/images/icon-pinterest.svg" alt="Pinterest"></a></li>
-            <li><a href="#"><img src="./assets/images/icon-share.svg" alt=""></a></li>
-          </ul>
-        </nav>
-        <footer class="author">
-          <img src="./assets/images/avatar-michelle.jpg" alt="Michelle Profile Picture" />
-          <p title="author">Michelle Appleton</p>
-          <time datetime="2020-06-28">28 Jun 2020</time>
-          <img src="./assets/images/icon-share.svg" alt="icon share">
-        </footer>
+        <img src="./assets/images/drawers.jpg" alt="">
+        <div class="article-content">
+          <h1>
+            Shift the overall look and feel by adding these wonderful touches to
+            furniture in your home
+          </h1>
+          <p>
+            Ever been in a room and felt like something was missing? Perhaps it felt
+            slightly bare and uninviting. I've got some simple tips to help you make
+            any room feel complete.
+          </p>
+          <nav class="nav-share">
+            <p>Share</p>
+            <ul>
+              <li><a href="#"><img src="./assets/images/icon-facebook.svg" alt="Facebook icon"></a></li>
+              <li><a href="#"><img src="./assets/images/icon-twitter.svg" alt="Twitter"></a></li>
+              <li><a href="#"><img src="./assets/images/icon-pinterest.svg" alt="Pinterest"></a></li>
+              <li><a href="#"><img src="./assets/images/icon-share.svg" alt=""></a></li>
+            </ul>
+          </nav>
+          <footer>
+            <img src="./assets/images/avatar-michelle.jpg" alt="Michelle Profile Picture" />
+            <div class="footer__author">              
+              <p title="author">Michelle Appleton</p>
+              <time datetime="2020-06-28">28 Jun 2020</time>
+            </div>
+            <div class="footer__arrow">
+              <img src="./assets/images/icon-share.svg" alt="icon share">
+            </div>            
+            
+          </footer>
+        </div> <!--content-->       
       </article>      
     </main>
 

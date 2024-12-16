@@ -70,11 +70,12 @@ To see how you can add code snippets, see below:
 ### Useful resources
 
 - MDN Web Docs.<time>: The (Date) Time element. Avaiable at:
-<[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)>. Acessed on: 14-12-2024.
-- W3C.Article Element. Avaiable at: <[https://html.spec.whatwg.org/multipage/sections.html#the-article-element](https://html.spec.whatwg.org/multipage/sections.html#the-article-element)>. Acessed on: 14-12-2024.
-- MDN Web Docs.Title Atributte. Avaiable at: <[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/title](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/title)>. Acessed on: 14-12-2024.
-- W3C. The title attribute.Avaiable at: <[https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute](https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute)>. Acessed on: 14-12-2024
-- MAJOUR.O elemento ARTICLE da HTML5. Avaiable at: <[https://www.maujor.com/blog/2012/01/29/o-elemento-article-da-html5/](https://www.maujor.com/blog/2012/01/29/o-elemento-article-da-html5/)>. Acessed on: 14-12-2024.
+<[https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time)>. Access on: 14-12-2024.
+- W3C.Article Element. Avaiable at: <[https://html.spec.whatwg.org/multipage/sections.html#the-article-element](https://html.spec.whatwg.org/multipage/sections.html#the-article-element)>. Access on: 14-12-2024.
+- MDN Web Docs.Title Atributte. Avaiable at: <[https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/title](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Global_attributes/title)>. Access on: 14-12-2024.
+- W3C. The title attribute.Avaiable at: <[https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute](https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute)>. Access on: 14-12-2024.
+- MAJOUR.O elemento ARTICLE da HTML5. Avaiable at: <[https://www.maujor.com/blog/2012/01/29/o-elemento-article-da-html5/](https://www.maujor.com/blog/2012/01/29/o-elemento-article-da-html5/)>. Access on: 14-12-2024.
+- DesignCourse. From Figma Units to CSS for Pixel Perfect Layouts - 2 Methods. YouTube, 26-07-2022. Avaiable at: <[https://www.youtube.com/watch?v=mh39YXytfC0](https://www.youtube.com/watch?v=mh39YXytfC0)>. Access on: 15-12-2024.
 
 👷‍♀️ working...
 
