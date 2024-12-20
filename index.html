@@ -22,7 +22,9 @@
   <body>
     <main>
       <article>
-        <img src="./assets/images/drawers.jpg" alt="">
+        <div class="article__img">
+          <img src="./assets/images/drawers.jpg" alt="">
+        </div>        
         <div class="article-content">
           <h1>
             Shift the overall look and feel by adding these wonderful touches to
@@ -33,14 +35,17 @@
             slightly bare and uninviting. I've got some simple tips to help you make
             any room feel complete.
           </p>
+        </div> <!--content--> 
           <nav class="nav-share">
             <p>Share</p>
             <ul>
               <li><a href="#"><img src="./assets/images/icon-facebook.svg" alt="Facebook icon"></a></li>
               <li><a href="#"><img src="./assets/images/icon-twitter.svg" alt="Twitter"></a></li>
               <li><a href="#"><img src="./assets/images/icon-pinterest.svg" alt="Pinterest"></a></li>
-              <li><a href="#"><img src="./assets/images/icon-share.svg" alt=""></a></li>
             </ul>
+            <div class="arrow-container">
+              <a class="arrow-share" href="#"><img src="./assets/images/icon-share.svg" alt=""></a>
+            </div>            
           </nav>
           <footer>
             <img src="./assets/images/avatar-michelle.jpg" alt="Michelle Profile Picture" />
@@ -48,12 +53,10 @@
               <p title="author">Michelle Appleton</p>
               <time datetime="2020-06-28">28 Jun 2020</time>
             </div>
-            <div class="footer__arrow">
+            <div class="arrow-share">
               <img src="./assets/images/icon-share.svg" alt="icon share">
             </div>            
-            
-          </footer>
-        </div> <!--content-->       
+          </footer>      
       </article>      
     </main>
 

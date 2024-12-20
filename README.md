@@ -76,6 +76,7 @@ To see how you can add code snippets, see below:
 - W3C. The title attribute.Avaiable at: <[https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute](https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute)>. Access on: 14-12-2024.
 - MAJOUR.O elemento ARTICLE da HTML5. Avaiable at: <[https://www.maujor.com/blog/2012/01/29/o-elemento-article-da-html5/](https://www.maujor.com/blog/2012/01/29/o-elemento-article-da-html5/)>. Access on: 14-12-2024.
 - DesignCourse. From Figma Units to CSS for Pixel Perfect Layouts - 2 Methods. YouTube, 26-07-2022. Avaiable at: <[https://www.youtube.com/watch?v=mh39YXytfC0](https://www.youtube.com/watch?v=mh39YXytfC0)>. Access on: 15-12-2024.
+- Components, styles, and shared library best practices. Avaiable at:<https://www.figma.com/best-practices/components-styles-and-shared-libraries/>. Access on: 20-12-2024.
 
 👷‍♀️ working...
 
